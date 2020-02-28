@@ -17,4 +17,4 @@ dss12_crawling_project
 #### 코드 관리
 - requirements.txt
 
-#### 프
+#### 프로젝트 회고
