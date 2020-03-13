@@ -33,7 +33,7 @@
       - from selenium.webdriver.common.keys import Keys
       - from scrapy.http import TextResponse
    - 코드의 설명은 처음 접한 사람도 그대로 따라하면 코드를 실행 할수 있을 정도로 간결하게 작성
-      - 우리가 하면 누구나 할 수 있다!!!! 걱정 마셈
+      - ...
 - 프로젝트 회고
    - 프로젝트하면서 느낀점
       - 크롬의 css selector와 실제 보여주는 코드가 다른 경우가 있다.
