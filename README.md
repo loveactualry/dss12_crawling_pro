@@ -44,7 +44,6 @@
          - spider.py 생성 후 run.sh 실행 후 에러 발생
          - 에러 메세지 캡처
          
-![image (1)](https://user-images.githubusercontent.com/15780961/76593372-84932b00-6539-11ea-8fa5-55fde87da92b.png)
 
       - 자연어 처리와 텍스트 마이닝을 사용하여 댓글 성향 분석
 - 참고문헌
