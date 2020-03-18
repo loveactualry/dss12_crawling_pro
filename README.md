@@ -35,7 +35,7 @@
       - from selenium.webdriver.common.keys import Keys
       - from scrapy.http import TextResponse
    - 코드의 설명은 처음 접한 사람도 그대로 따라하면 코드를 실행 할수 있을 정도로 간결하게 작성
-      - ...
+      - 주석 작성
       
 - 결론
 
