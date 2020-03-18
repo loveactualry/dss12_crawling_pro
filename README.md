@@ -34,8 +34,35 @@
       - from selenium.webdriver.chrome.options import Options
       - from selenium.webdriver.common.keys import Keys
       - from scrapy.http import TextResponse
+      - from PIL import Image as pil
+      - from konlpy.tag import *  
+      - from wordcloud import WordCloud
+
+     - import matplotlib
+     - import matplotlib.pyplot as plt
+     - from matplotlib import font_manager, rc
+
+     - from collections import Counter 
+     - import pandas as pd
+
+     - import pymongo
+     - import sys
+
+     - from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
+
+
+     - import nltk 
+     - from nltk.probability import FreqDist 
+     - import matplotlib as mpl
+
+     - from konlpy.tag import Hannanum
+     - import re
+     - import csv
+     - from apyori import apriori
+     - import networkx as nx
+
    - 코드의 설명은 처음 접한 사람도 그대로 따라하면 코드를 실행 할수 있을 정도로 간결하게 작성
-      - 주석 작성
+      - 주석 작성, 우리가 하면 다 할 수 있다.
       
 - 결론
 
