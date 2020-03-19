@@ -11,8 +11,8 @@
       
 - 데이터 수집 구조도
 
-![프레젠테이션1.pptx](https://github.com/loveactualry/dss12_crawling_pro/files/4355311/1.pptx)
-   - 
+![structure](https://user-images.githubusercontent.com/60166667/77083157-65683200-6a40-11ea-9bb3-07b323c19224.png)
+
 - 데이터를 수집하는 시스템의 구조도 및 프로세스 등을 설명
 - 크롤링하는 방법
    - AWS 서버를 사용하여 YouTube '타다 금지법' 개별 영상 댓글 크롤링
