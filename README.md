@@ -56,7 +56,8 @@
    
     -  단어 별 네트워크 분석 결과  ==> 수정 보완 필요
      
-     ![네트워크분석](https://user-images.githubusercontent.com/60166667/77083813-6cdc0b00-6a41-11ea-8ef9-cca20b68b3f8.png)
+     <img width="911" alt="다운로드" src="https://user-images.githubusercontent.com/60166667/80065819-b99d8f00-8575-11ea-9c79-f7d2477635bb.png">
+
 
        - 이철희, 채이배 의원: 언급 빈도가 많고, 두 사람에 대한 연관성이 있는 것으로 보임.
        - 실제로, 두 의원이 주도하여 타다 금지법 법사위 통과 반대한 것으로 확인.
